@@ -8,14 +8,14 @@ Knowing whether you made a right choice when it comes to animations, or design i
 
 They are based on my years of experience working at companies like Vercel and Linear.
 
-If you want to dive even deeper into design engineering, you can checkout my animation course:
+If you want to dive even deeper into design engineering and how AI can help, you can checkout my animation course:
 
 [Check out animations.dev](http://animations.dev/)
 
 ## Install
 
 ```bash
-npx skills@latest add emilkowalski/skill
+npx skills@latest add emilkowalski/skills
 ```
 
 ## Why use it?
